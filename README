@@ -1,0 +1,30 @@
+Personal Finance Tracker
+A simple web application to track income and expenses. This project helps you manage your personal finances by allowing you to record transactions, categorize them, and view them in a list format.
+
+Features
+Add new transactions (Income/Expense).
+Edit existing transactions.
+Delete transactions.
+Filter transactions by type (Income/Expense).
+View all transactions in a list format.
+
+Technologies Used
+Backend: Python Flask, Flask-SQLAlchemy, SQLite, Flask-CORS
+Frontend: HTML, CSS, JavaScript
+
+Install Required Packages:
+pip install Flask Flask-SQLAlchemy Flask-Cors
+
+Running the Project
+Start the Backend Server:
+python app.py
+Open the index.html File in a Browser:
+Use the "Live Server" extension in VS Code or open the index.html file directly in your browser.
+
+Interact with Your Personal Finance Tracker:
+Add, edit, delete, and filter transactions.
+
+After running the Flask app using the app.py command, navigate to the index.html file. Right-click on the HTML file and select the "Open with Live Server" option.
+
+By clicking on "Live Server," it will open a browser displaying the user interface of the Personal Finance Tracker project. From there, you can perform the desired operations.
+
